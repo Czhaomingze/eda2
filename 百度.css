@@ -1,0 +1,51 @@
+#百度{
+    display: block;
+    margin: 18px auto auto;
+}
+input{
+    display:inline-block;
+    margin-top:20px;
+    margin-left: 350px;
+    width: 550px;
+    height: 30px;
+}
+button{
+    height: 40px;
+    width: 100px;
+    background-color: #2482ff;
+    color: white;
+    font-size: 15px;
+}
+#二维码{
+    display: block;
+    margin: 180px auto auto;
+}
+#we{
+    display: inline-block;
+    font-family: 微软雅黑,serif;
+    font-size:13px;
+    color: #000000;
+    margin-left: 880px;
+    margin-top: 15px;
+}
+#推广{
+    font-family: 微软雅黑,serif;
+    font-size:13px;
+    color: white;
+    background: #2482ff;
+    padding: 4px;
+}
+#a{
+    font-family: 微软雅黑,serif;
+    margin-top: 30px;
+    margin-left: 500px;
+    color: grey;
+    font-size:12px;
+}
+#b{
+    font-family: 微软雅黑,serif;
+    margin-top: 8px;
+    margin-left: 420px;
+    color: grey;
+    font-size:12px;
+}
